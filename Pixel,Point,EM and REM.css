@@ -1,0 +1,12 @@
+  body {color: red ; background-color: antiquewhite}
+  h1 {color: yellow; background-color:darkgreen}
+  h2 {color:#48CFCB ; background-color : darkblue}
+  h3 {color: #229799 ; background-color : peachpuff}
+  h4 {color : #C68FE6 ; background-color : rebeccapurple}
+  footer { font-size: 14pt; }
+  html { font-size: xx-large}
+  #pixel{ font-size: 40px;}
+  #point { font-size: 2pt;}
+  #Em { font-size: 1em;}
+  #Rem { font-size: 1rem;}
+  #font {font-size: 18pt;}
